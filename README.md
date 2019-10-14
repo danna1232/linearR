@@ -2,7 +2,7 @@
 
 This is a read me.  
 A very stupid one.  
-If you do end up open one, I am not sure what that means.  
+If you do end up open this read me, I am not sure what that means.  
 
 ## Part Two  
 Not sure what to write.  
